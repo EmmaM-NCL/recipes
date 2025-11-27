@@ -5,3 +5,4 @@
 # Instructions
 - boil water
 - put the peas in a pan
+- shell the peas
