@@ -3,4 +3,4 @@
 - spring onions £3 per kg
 - potato £2 per kg
 # Instructions
-
+- put the peas in a panx
